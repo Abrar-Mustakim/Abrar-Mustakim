@@ -19,7 +19,7 @@ Press on this Image👇
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SMABRARMUSTAKIM)<br>  
 
 For the English Article, Click Below 👇: <br>
-[<img src="https://www.tbsnews.net/sites/default/files/styles/very_big_3/public/images/2021/11/25/the_message_sent_by_enigma_systems.jpg?itok=eganjljD">](https://www.tbsnews.net/features/pursuit/enigma-systems-robotics-team-who-sent-amar-shonar-bangla-space-334441)
+[<img src="https://www.tbsnews.net/sites/default/files/styles/very_big_3/public/images/2021/11/25/the_message_sent_by_enigma_systems.jpg?itok=eganjljD">](https://www.tbsnews.net/features/pursuit/enigma-systems-robotics-team-who-sent-amar-shonar-bangla-space-334441)<br>
 
 
 [![Mustakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar-Mustakim)](https://github.com/Abrar-Mustakim/github-readme-stats)
