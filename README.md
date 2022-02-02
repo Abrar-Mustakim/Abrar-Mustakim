@@ -10,6 +10,7 @@ Skills: PYTHON / TENSORFLOW
 - 📫 How to reach me: sm.abrar.mustakim@g.bracu.ac.bd 
 
 An International news paper article on our works:
+Press on this Image👇
 [<img src="https://images.prothomalo.com/prothomalo-bangla/2021-11/a4a2078e-e47c-4979-a343-2d4a1d875142/pic_team_bgd01.jpg?format=webp&w=1366&dpr=1.0">](https://www.prothomalo.com/feature/shapno/%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B6%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%81%E0%A6%B0%E0%A6%BE-%E0%A6%AA%E0%A7%8C%E0%A6%81%E0%A6%9B%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abrar-Mustakim)<br>
