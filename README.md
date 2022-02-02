@@ -32,7 +32,7 @@ For the English Article, Click Below this Image 👇: <br>
 
 Name | Completed |  URL | Organizations
 --- | --- | --- | --- | 
-*Neural Networks and Deep Learning* | `DEC, 2021` | [Offical](https://www.coursera.org/account/accomplishments/certificate/TG9QDVN2R62W) | Coursera
+*Neural Networks and Deep Learning* | `DEC 14, 2021` | [Offical](https://www.coursera.org/account/accomplishments/certificate/TG9QDVN2R62W) | Coursera
 *Convolutional Neural Networks* | `JAN , 2022` | [Offical](https://www.coursera.org/account/accomplishments/certificate/EL9AZXW7FW4G) | Coursera
 *Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning* | `MAR 01, 2022` | [Offical](https://www.lynda.com/JavaScript-tutorials/Learning-Vue-js/562924-2.html) | Coursera
 
