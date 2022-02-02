@@ -29,10 +29,3 @@ For the English Article, Click Below 👇: <br>
 
 
 [![Mustakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar-Mustakim)](https://github.com/Abrar-Mustakim/github-readme-stats)
-
-<a href="https://github.com/Abrar-Mustakim/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abrar-Mustakim&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Abrar-Mustakim/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abrar-Mustakim&repo=convoychat" />
-</a>
