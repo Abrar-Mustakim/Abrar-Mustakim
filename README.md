@@ -6,7 +6,10 @@ I am currenty studying at BRAC University. I am interested in the field of AI. I
 
 Skills: PYTHON / TENSORFLOW 
 
-- 🔭 I’m currently working on this page. 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar-Mustakim&layout=compact)](https://github.com/Abrar-Mustakim/github-readme-stats)
+
+
+- 🔭 I’m currently working on Deep Learning 
 - 📫 How to reach me: sm.abrar.mustakim@g.bracu.ac.bd 
 
 An International news paper article on our works:<br>
