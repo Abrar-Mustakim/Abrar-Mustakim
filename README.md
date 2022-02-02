@@ -30,11 +30,11 @@ For the English Article, Click Below 👇: <br>
 # linkedin-certifications
 
 
-Name | completed |  URL | Link
+Name | Completed |  URL | Organizations
 --- | --- | --- | --- | 
-*Neural Networks and Deep Learning* | `DEC, 2021` | [Offical](https://www.coursera.org/account/accomplishments/certificate/TG9QDVN2R62W) | link
-*Convolutional Neural Networks* | `JAN , 2022` | [Offical](https://www.coursera.org/account/accomplishments/certificate/EL9AZXW7FW4G) | link
-*Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning* | `MAR 02, 2022` | [Offical](https://www.lynda.com/JavaScript-tutorials/Learning-Vue-js/562924-2.html) | link
+*Neural Networks and Deep Learning* | `DEC, 2021` | [Offical](https://www.coursera.org/account/accomplishments/certificate/TG9QDVN2R62W) | Coursera
+*Convolutional Neural Networks* | `JAN , 2022` | [Offical](https://www.coursera.org/account/accomplishments/certificate/EL9AZXW7FW4G) | Coursera
+*Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning* | `MAR 02, 2022` | [Offical](https://www.lynda.com/JavaScript-tutorials/Learning-Vue-js/562924-2.html) | Coursera
 
 
 
