@@ -27,7 +27,7 @@ For the English Article, Click Below 👇: <br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abrarmustakim.taki/)<br>  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SMABRARMUSTAKIM)<br>  
 
-# linkedin-certifications
+# Certifications
 
 
 Name | Completed |  URL | Organizations
