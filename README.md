@@ -27,5 +27,15 @@ For the English Article, Click Below 👇: <br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abrarmustakim.taki/)<br>  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SMABRARMUSTAKIM)<br>  
 
+# linkedin-certifications
+
+
+Name | completed |  URL | Link
+--- | --- | --- | --- | 
+*Neural Networks and Deep Learning* | `DEC, 2021` | [Offical](https://www.coursera.org/account/accomplishments/certificate/TG9QDVN2R62W) | link
+*Convolutional Neural Networks* | `JAN , 2022` | [Offical](https://www.coursera.org/account/accomplishments/certificate/EL9AZXW7FW4G) | link
+*Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning* | `MAR 02, 2022` | [Offical](https://www.lynda.com/JavaScript-tutorials/Learning-Vue-js/562924-2.html) | link
+
+
 
 [![Mustakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar-Mustakim)](https://github.com/Abrar-Mustakim/github-readme-stats)
