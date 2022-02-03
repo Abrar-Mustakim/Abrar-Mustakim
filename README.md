@@ -22,6 +22,11 @@ Press on this Image👇
 For the English Article, Click Below this Image 👇: <br>
 [<img src="https://www.tbsnews.net/sites/default/files/styles/very_big_3/public/images/2021/11/25/the_message_sent_by_enigma_systems.jpg?itok=eganjljD">](https://www.tbsnews.net/features/pursuit/enigma-systems-robotics-team-who-sent-amar-shonar-bangla-space-334441)<br>
 
+# Activities:
+<ol>
+  <li>Working as an Executive in the department of Research and Project Management(RPM) at ROBOTICS CLUB OF BRAC UNIVERSITY(ROBU)</li>
+</ol>
+
 # Social Media
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abrar-Mustakim)<br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/s-m-abrar-mustakim-taki-a6b366212/)<br>  
