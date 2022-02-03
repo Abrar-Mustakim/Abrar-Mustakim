@@ -4,8 +4,8 @@
 
 I am currenty studying at BRAC University. I am interested in the field of AI. I love to learn Deep Learning things. I am also interested in Robotics. Our team Enigma System has placed 1st runner up in 2nd International Kibo Robot Programming Challenge and National Crew Award. I have also worked with BRACU Mars Rover Team BRACU MONGOLTORI and BRACU DUBURI TEAM which was an underwater autonomous bot 
 
-Skills: PYTHON / TENSORFLOW <br>
-Interested In: Research & Development(AI)
+<b>Skills</b>: PYTHON / TENSORFLOW <br>
+<b>Interested In</b>: Research & Development(AI)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar-Mustakim&layout=compact)](https://github.com/Abrar-Mustakim/github-readme-stats)
 
