@@ -34,8 +34,8 @@ Name | Completed |  URL | Organizations
 --- | --- | --- | --- | 
 *Neural Networks and Deep Learning* | `DEC 14, 2021` | [Offical](https://www.coursera.org/account/accomplishments/certificate/TG9QDVN2R62W) | Coursera
 *Convolutional Neural Networks* | `JAN 31, 2022` | [Offical](https://www.coursera.org/account/accomplishments/certificate/EL9AZXW7FW4G) | Coursera
-*Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning* | `MAR 01, 2022` | [Offical](https://www.lynda.com/JavaScript-tutorials/Learning-Vue-js/562924-2.html) | Coursera
-
+*Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning* | `FEB 01, 2022` | [Offical](https://www.coursera.org/account/accomplishments/certificate/TG9QDVN2R62W) | Coursera
+*Convolutional Neural Networks in TensorFlow* | `FEB 03, 2022` | [Offical](https://www.coursera.org/account/accomplishments/certificate/TGLMRZUYBC3M) | Coursera
 
 
 [![Mustakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar-Mustakim)](https://github.com/Abrar-Mustakim/github-readme-stats)
