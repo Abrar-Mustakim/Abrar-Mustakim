@@ -38,9 +38,9 @@ For the English Article, Click Below this Image 👇: <br>
 
 
 # Video
- 1) Morris Traversal Algorithm for Tree- 
+ 1) <b>Morris Traversal Algorithm for Tree</br>- <br>
     Link:- https://www.youtube.com/watch?v=-nnJKqd7Uss
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/-nnJKqd7Uss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   
 
 # Certifications
 
