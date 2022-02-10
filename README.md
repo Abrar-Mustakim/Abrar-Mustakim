@@ -36,6 +36,12 @@ For the English Article, Click Below this Image 👇: <br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SMABRARMUSTAKIM)<br>  
 
+
+# Video
+ 1) Morris Traversal Algorithm for Tree- 
+    Link:- https://www.youtube.com/watch?v=-nnJKqd7Uss
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/-nnJKqd7Uss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Certifications
 
 
