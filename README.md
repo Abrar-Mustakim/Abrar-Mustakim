@@ -24,7 +24,7 @@ For the English Article, Click Below this Image 👇: <br>
 
 # Activities:
 <ul>
-  <li>Working as an Senior Executive in the department of Research and Project Management(RPM) at ROBOTICS CLUB OF BRAC UNIVERSITY(ROBU)</li>
+  <li>Working as Senior Executive in the department of Research and Project Management(RPM) at ROBOTICS CLUB OF BRAC UNIVERSITY(ROBU)</li>
 </ul>
 
 # Social Media
