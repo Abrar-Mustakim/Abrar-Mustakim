@@ -51,6 +51,8 @@ Name | Completed |  URL | Organizations
 *Convolutional Neural Networks* | `JAN 31, 2022` | [Certificate](https://www.coursera.org/account/accomplishments/certificate/EL9AZXW7FW4G) | Coursera
 *Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning* | `FEB 01, 2022` | [Certificate](https://www.coursera.org/account/accomplishments/certificate/TG9QDVN2R62W) | Coursera
 *Convolutional Neural Networks in TensorFlow* | `FEB 03, 2022` | [Certificate](https://www.coursera.org/account/accomplishments/certificate/TGLMRZUYBC3M) | Coursera
-
+*Natural Language Processing in TensorFlow* | `APR 23, 2022` | [Certificate](https://www.coursera.org/account/accomplishments/certificate/D8DSR4MDK754) | Coursera
+*Sequences, Time Series and Prediction* | `APR 26, 2022` | [Certificate](https://www.coursera.org/account/accomplishments/certificate/U3BSZWSDJFG4) | Coursera
+*DeepLearning.AI TensorFlow Developer Specialization* | `APR 26, 2022` | [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/QH3K2458QGS7) | Coursera
 
 [![Mustakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar-Mustakim)](https://github.com/Abrar-Mustakim/github-readme-stats)
